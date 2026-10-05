@@ -66,7 +66,6 @@
   import { Card } from 'ant-design-vue';
   import { dateTime } from '/@/utils/validate';
   import { router } from '/@/router';
-  import SimpleBar from 'simplebar-vue';
   // import 'simplebar/dist/simplebar.min.css';
   const props = defineProps({
     loading: Boolean,
